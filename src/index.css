@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Monoton&family=Quicksand:wght@500;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Protest+Revolution&display=swap");
 
 * {
   margin: 0;
@@ -13,8 +13,8 @@ html {
 body {
   font-size: 2.4rem;
   font-family: sans-serif;
-  color: #5a3e2b;
-  font-family: "Quicksand";
+  color: #000000;
+  font-family: "Protest Revolution";
   font-weight: 500;
 }
 
@@ -27,8 +27,8 @@ body {
 
 h1 {
   text-align: center;
-  background-color: #f4a226;
-  font-family: "Monoton";
+  background-color: #750137;
+  font-family: "Protest Revolution";
   font-size: 8rem;
   text-transform: uppercase;
   font-weight: 400;
@@ -38,7 +38,7 @@ h1 {
 }
 
 .add-form {
-  background-color: #e5771f;
+  background-color: #ffc6ee;
   padding: 2.8rem 0;
   display: flex;
   align-items: center;
@@ -54,8 +54,8 @@ h3 {
 button,
 select,
 input {
-  background-color: #ffebb3;
-  color: #5a3e2b;
+  background-color: #fef5e2;
+  color: #000000;
   font-family: inherit;
   border: none;
   border-radius: 10rem;
@@ -67,11 +67,11 @@ input {
 
 .add-form button {
   text-transform: uppercase;
-  background-color: #76c7ad;
+  background-color: #750137;
 }
 
 .list {
-  background-color: #5a3e2b;
+  background-color: #ffdec8;
   color: #ffebb3;
   padding: 4rem 0;
 
@@ -112,7 +112,7 @@ input {
 input[type="checkbox"] {
   height: 2rem;
   width: 2rem;
-  accent-color: #e5771f;
+  accent-color: #ff00ff;
 }
 
 .list li button {
@@ -125,7 +125,7 @@ input[type="checkbox"] {
 }
 
 .stats {
-  background-color: #76c7ad;
+  background-color: #750137;
   text-align: center;
   font-weight: 700;
   padding: 3.2rem 0;
